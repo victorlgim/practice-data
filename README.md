@@ -7,3 +7,4 @@ A renderização não teve foco na estilização e sim na lógica e regra de neg
 ![2](https://user-images.githubusercontent.com/109770689/206285473-dd5323a4-00f8-4c7c-9121-866bad33346a.png)
 ![3](https://user-images.githubusercontent.com/109770689/206285477-b78409d3-ae0d-4220-ae35-a5443827cb86.png)
 ![4](https://user-images.githubusercontent.com/109770689/206285479-2d07b942-6c7c-4016-bda2-ff1c2a953daa.png)
+
